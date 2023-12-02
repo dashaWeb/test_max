@@ -17,6 +17,9 @@ void  print(const T& map, const string& text = "")
     for (auto& b : map)
     {
         cout << b.first << "\t" << b.second << endl;
+        cout << b.first << "\t" << b.second << endl;
+        cout << b.first << "\t" << b.second << endl;
+        cout << b.first << "\t" << b.second << endl;
 
     }
 }
